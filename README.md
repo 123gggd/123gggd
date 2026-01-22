@@ -1,27 +1,68 @@
 # Hi, I'm Chengyang 👋
 
-I'm a Python Automation Developer specializing in:
+I'm a Python Automation Developer focused on solving real-world business data problems.
 
-- Excel & CSV data cleaning and preprocessing  
-- API integrations and SaaS data synchronization  
-- Pre-import data validation tools  
-- Lightweight Zapier alternatives using Python  
+I build scripts to clean messy Excel/CSV files, validate data before import, and sync records between SaaS platforms using APIs.
 
-## What I build
+---
 
-- Scripts to deduplicate and normalize messy datasets  
-- Tools to sync Google Sheets with CRM systems  
-- Pre-import scanners to prevent broken data imports  
-- Custom API integrations between SaaS platforms  
+## What I Do
+
+- Automate Excel and CSV data cleaning and preprocessing  
+- Build pre-import data validation tools  
+- Sync data between SaaS platforms (CRM, accounting systems, Google Sheets)  
+- Replace manual workflows and Zapier automations with Python scripts  
+- Build lightweight API integrations between business systems  
+
+---
+
+## Typical Problems I Solve
+
+- Messy CSV exports that fail during CRM or ERP import  
+- Duplicate or conflicting records in Excel files  
+- Broken data syncs between SaaS tools  
+- Manual copy-paste workflows between spreadsheets and CRMs  
+- High Zapier costs for simple data automation  
+
+---
+
+## Example Use Cases
+
+- Clean and deduplicate contact lists before CRM import  
+- Sync Google Sheets data to a CRM via REST API  
+- Validate Excel files and generate error reports  
+- Merge multiple CSV files into a clean master dataset  
+- Build scheduled automation scripts for reporting  
+
+---
 
 ## Tech Stack
 
 - Python, Pandas  
 - REST APIs, JSON  
 - Google Sheets API  
-- Web scraping (BeautifulSoup, Requests)
+- Web scraping (Requests, BeautifulSoup)  
+
+---
 
 ## Current Focus
 
-Building automation tools for real-world business workflows:
-CRM imports, accounting data sync, and reporting automation.
+Building Python automation tools for:
+
+- CRM data imports  
+- Accounting and invoicing data sync  
+- Reporting and Excel automation  
+- SaaS integrations without Zapier  
+
+---
+
+## Contact
+
+If you're looking for help with:
+
+- Excel / CSV automation  
+- API integrations  
+- Data cleaning or validation  
+- SaaS data sync  
+
+Feel free to connect with me on Upwork or GitHub.
