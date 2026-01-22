@@ -2,6 +2,8 @@
 
 I'm a Python Automation Developer focused on solving real-world business data problems.
 
+While I have a strong background in Full-stack Vue development (see my repository nebulapuls8888), my current freelance focus is strictly on Python Automation & Data workflows.
+
 I build scripts to clean messy Excel/CSV files, validate data before import, and sync records between SaaS platforms using APIs.
 
 ---
