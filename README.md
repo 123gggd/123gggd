@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Chengyang 👋
 
-<!--
-**123gggd/123gggd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python Automation Developer specializing in:
 
-Here are some ideas to get you started:
+- Excel & CSV data cleaning and preprocessing  
+- API integrations and SaaS data synchronization  
+- Pre-import data validation tools  
+- Lightweight Zapier alternatives using Python  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+
+- Scripts to deduplicate and normalize messy datasets  
+- Tools to sync Google Sheets with CRM systems  
+- Pre-import scanners to prevent broken data imports  
+- Custom API integrations between SaaS platforms  
+
+## Tech Stack
+
+- Python, Pandas  
+- REST APIs, JSON  
+- Google Sheets API  
+- Web scraping (BeautifulSoup, Requests)
+
+## Current Focus
+
+Building automation tools for real-world business workflows:
+CRM imports, accounting data sync, and reporting automation.
