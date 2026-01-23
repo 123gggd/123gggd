@@ -1,37 +1,52 @@
-# 👋 Hello, I’m Chengyang — Full-Stack Engineer
+# 👋 Hi, I’m Chengyang — Full‑Stack Engineer
 
-I am a **Full-Stack Engineer** with real production experience building complex web applications. I specialize in **fixing bugs, debugging APIs, and enhancing the quality of web systems** through clean, maintainable code and scalable architecture.
+I am a **Full‑Stack Engineer** with 4+ years of hands‑on experience building and maintaining real production web applications. I specialize in **debugging complex issues, fixing backend and frontend bugs, and delivering clean, maintainable features** that improve system reliability and performance.
 
 ---
 
 ## 💼 What I Do
-- 🛠 Fix backend & frontend bugs in real applications  
-- 🔗 Build, debug, and integrate REST APIs  
-- 🚀 Add new features and optimize existing flows  
-- 🧪 Improve performance, scalability, and reliability  
-- 🧩 Debug across database → backend → API → frontend layers
+
+* 🛠 Fix backend & frontend bugs in production applications
+* 🔗 Build, debug, and integrate REST APIs
+* 🚀 Add new features and optimize existing business flows
+* 🧪 Improve performance, scalability, and system stability
+* 🧩 Debug across database → backend → API → frontend layers
 
 ---
 
 ## 💻 Tech Stack & Tools
-**Languages:** JavaScript, TypeScript, Java  
-**Frontend:** Vue.js  
-**Backend:** Spring Boot  
-**Database & Cache:** MySQL, Redis  
-**API & Integration:** REST APIs, API debugging
+
+**Languages:** JavaScript, TypeScript, Java
+**Frontend:** Vue.js (Vue 3, Composition API)
+**Backend:** Spring Boot
+**Database & Cache:** MySQL, Redis
+**API & Integration:** REST APIs, API Debugging
+**Tools:** Git, Postman, Maven, Vite
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
-### ⭐ **Nebula Commerce**  
-A full-stack enterprise-style e-commerce system demonstrating production-level backend APIs, admin dashboard, and customer storefront. It includes authentication, caching, high-concurrency flows, and real business logic.
+### ⭐ Nebula Commerce — Full‑Stack E‑commerce System
 
-Find the repository below.
+A production‑style e‑commerce platform demonstrating real business logic, clean architecture, and scalable design.
+
+**Key highlights:**
+
+* Secure backend APIs with Spring Boot + JWT authentication
+* Redis caching for performance and high‑concurrency handling
+* Admin dashboard built with Vue 3 + TypeScript
+* Customer storefront with a complete shopping flow
+* Orders, coupons, cart & checkout, and promotion logic
+
+👉 See the pinned repository below for full source code and setup instructions.
 
 ---
 
 ## 📫 Contact
-I am open to freelance contract work: bug fixes, API debugging, feature additions, and performance improvements.
 
-Let’s build clean and reliable systems together!
+I am open to freelance contract work, bug fixes, API debugging, feature additions, and performance optimization.
+
+If you need a developer who can jump into your codebase, understand it fast, and fix issues without breaking other features — feel free to reach out.
+
+Let’s build clean and reliable systems together! 🚀
