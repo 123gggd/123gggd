@@ -1,73 +1,35 @@
-# Hi, I'm Chengyang 👋
+# 👋 Hello, I’m Chengyang — Full-Stack Engineer
 
-I'm a Python Automation Developer focused on solving real-world business data problems.
-
-While I have a strong background in Full-stack Vue development (see my repository nebulapuls8888), my current freelance focus is strictly on Python Automation & Data workflows.
-
-I build scripts to clean messy Excel/CSV files, validate data before import, and sync records between SaaS platforms using APIs.
+I specialize in **fixing bugs, troubleshooting APIs, and enhancing web applications** with high-quality, maintainable code. With real production experience building complete web systems, I bring engineering discipline and problem-solving to every challenge.
 
 ---
 
-## What I Do
-
-- Automate Excel and CSV data cleaning and preprocessing  
-- Build pre-import data validation tools  
-- Sync data between SaaS platforms (CRM, accounting systems, Google Sheets)  
-- Replace manual workflows and Zapier automations with Python scripts  
-- Build lightweight API integrations between business systems  
-
----
-
-## Typical Problems I Solve
-
-- Messy CSV exports that fail during CRM or ERP import  
-- Duplicate or conflicting records in Excel files  
-- Broken data syncs between SaaS tools  
-- Manual copy-paste workflows between spreadsheets and CRMs  
-- High Zapier costs for simple data automation  
+## 💼 What I Do
+- 🛠 Fix backend and frontend bugs in real applications  
+- 🔗 Build, fix, and integrate REST APIs  
+- 🚀 Add new features and enhancements safely  
+- 🧪 Improve performance, scalability, and stability  
+- 🧩 Debug across database → backend → API → frontend
 
 ---
 
-## Example Use Cases
-
-- Clean and deduplicate contact lists before CRM import  
-- Sync Google Sheets data to a CRM via REST API  
-- Validate Excel files and generate error reports  
-- Merge multiple CSV files into a clean master dataset  
-- Build scheduled automation scripts for reporting  
+## 💻 Tech Stack & Tools
+**Languages & Frameworks:** Java, Spring Boot, Vue.js, TypeScript, JavaScript  
+**Data & Tools:** MySQL, Redis, REST APIs, Postman, Git
 
 ---
 
-## Tech Stack
+## 📌 Featured Projects
 
-- Python, Pandas  
-- REST APIs, JSON  
-- Google Sheets API  
-- Web scraping (Requests, BeautifulSoup)  
+### ⭐ **Nebula Commerce — Full-Stack E-commerce System**
+A production-like e-commerce platform demonstrating real business logic, complete with backend APIs, admin dashboard, and customer frontend UI.  
+Backend powered by Spring Boot with JWT auth and Redis caching. Frontend implemented with Vue 3 and TypeScript, including admin management and storefront flows.
 
----
-
-## Current Focus
-
-Building Python automation tools for:
-
-- CRM data imports  
-- Accounting and invoicing data sync  
-- Reporting and Excel automation  
-- SaaS integrations without Zapier  
+*Check individual repository for full code and setup details.*
 
 ---
 
-## Contact
+## 📫 Get in Touch
+I’m open to freelance work, bug fixes, API debugging, feature builds, and performance optimization. You can find my Upwork profile to contact me for contract work.
 
-If you're looking for help with:
-
-- Excel / CSV automation  
-- API integrations  
-- Data cleaning or validation  
-- SaaS data sync  
-
-Feel free to connect with me on Upwork or GitHub.
----
-### 📫 Ready to automate your workflow?
-[**Hire Me on Upwork**](https://www.upwork.com/freelancers/~011876f8028a554d41) 🚀
+Let’s build something solid and reliable together! 🚀
