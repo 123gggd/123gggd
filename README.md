@@ -1,35 +1,37 @@
 # 👋 Hello, I’m Chengyang — Full-Stack Engineer
 
-I specialize in **fixing bugs, troubleshooting APIs, and enhancing web applications** with high-quality, maintainable code. With real production experience building complete web systems, I bring engineering discipline and problem-solving to every challenge.
+I am a **Full-Stack Engineer** with real production experience building complex web applications. I specialize in **fixing bugs, debugging APIs, and enhancing the quality of web systems** through clean, maintainable code and scalable architecture.
 
 ---
 
 ## 💼 What I Do
-- 🛠 Fix backend and frontend bugs in real applications  
-- 🔗 Build, fix, and integrate REST APIs  
-- 🚀 Add new features and enhancements safely  
-- 🧪 Improve performance, scalability, and stability  
-- 🧩 Debug across database → backend → API → frontend
+- 🛠 Fix backend & frontend bugs in real applications  
+- 🔗 Build, debug, and integrate REST APIs  
+- 🚀 Add new features and optimize existing flows  
+- 🧪 Improve performance, scalability, and reliability  
+- 🧩 Debug across database → backend → API → frontend layers
 
 ---
 
 ## 💻 Tech Stack & Tools
-**Languages & Frameworks:** Java, Spring Boot, Vue.js, TypeScript, JavaScript  
-**Data & Tools:** MySQL, Redis, REST APIs, Postman, Git
+**Languages:** JavaScript, TypeScript, Java  
+**Frontend:** Vue.js  
+**Backend:** Spring Boot  
+**Database & Cache:** MySQL, Redis  
+**API & Integration:** REST APIs, API debugging
 
 ---
 
 ## 📌 Featured Projects
 
-### ⭐ **Nebula Commerce — Full-Stack E-commerce System**
-A production-like e-commerce platform demonstrating real business logic, complete with backend APIs, admin dashboard, and customer frontend UI.  
-Backend powered by Spring Boot with JWT auth and Redis caching. Frontend implemented with Vue 3 and TypeScript, including admin management and storefront flows.
+### ⭐ **Nebula Commerce**  
+A full-stack enterprise-style e-commerce system demonstrating production-level backend APIs, admin dashboard, and customer storefront. It includes authentication, caching, high-concurrency flows, and real business logic.
 
-*Check individual repository for full code and setup details.*
+Find the repository below.
 
 ---
 
-## 📫 Get in Touch
-I’m open to freelance work, bug fixes, API debugging, feature builds, and performance optimization. You can find my Upwork profile to contact me for contract work.
+## 📫 Contact
+I am open to freelance contract work: bug fixes, API debugging, feature additions, and performance improvements.
 
-Let’s build something solid and reliable together! 🚀
+Let’s build clean and reliable systems together!
